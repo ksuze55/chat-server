@@ -14,3 +14,7 @@ Thumbs.db
 .vscode/
 .idea/
 coverage/
+
+/generated/prisma
+node_modules/
+.env
